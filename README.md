@@ -254,7 +254,7 @@ Open `surajgolai_10072025 DS Evening_tableau.twbx` in **Tableau Desktop**
 **Suraj Golui**  
 Data Science Student | Python | SQL | Tableau | Machine Learning
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/your-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/suraj-golai-0340b3328)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/surajgolui2005-cell)
 
 ---
