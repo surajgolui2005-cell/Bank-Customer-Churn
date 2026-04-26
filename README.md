@@ -80,7 +80,8 @@ Bank-Customer-Churn/
 │   └── surajgolai_10072025 DS Evening_sql.sql                # SQL Analysis
 │
 ├── 📊 Tableau
-│   └── surajgolai_10072025 DS Evening_tableau.twbx           # Dashboard
+│   ├── surajgolai_10072025 DS Evening_tableau.twbx           # Dashboard
+│   └── [Interactive Dashboard (Tableau Public)](https://public.tableau.com/views/surajgolai_10072025DSEvening_tableau/Dashboard1)
 │
 ├── 📂 Data
 │   ├── Bank_Customer_Churn_(U).csv    # Raw (uncleaned) data
@@ -184,6 +185,7 @@ ORDER BY churn_rate DESC;
 
 ## 📊 Tableau Dashboard
 
+**🌍 Live Interactive Dashboard:** [View on Tableau Public](https://public.tableau.com/views/surajgolai_10072025DSEvening_tableau/Dashboard1)  
 **File:** `surajgolai_10072025 DS Evening_tableau.twbx`
 
 The interactive Tableau dashboard includes:
